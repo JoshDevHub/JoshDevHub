@@ -9,6 +9,6 @@ I'm a web developer based in Colorado Springs, CO :mount_fuji:
 - :mailbox: Reach me by email at jmsmith1018@gmail.com
 
 ## Languages, Frameworks, and Tools
-[<img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge"/>]()
+[<img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge"/>]() [<img src="https://img.shields.io/badge/-rails-#CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge"/>]() [<img src="https://img.shields.io/badge/-html5-#E34F26?logo=html5&logoColor=white&style=for-the-badge"/>]() [<img src="https://img.shields.io/badge/-css3-#1572B6?logo=css3&logoColor=white&style=for-the-badge"/>]() [<img src="https://img.shields.io/badge/-javascript-#F7DF1E?logo=javascript&logoColor=white&style=for-the-badge"/>]() [<img src="https://img.shields.io/badge/-stimulus-#77E8B9?logo=stimulus&logoColor=white&style=for-the-badge"/>]() [<img src="https://img.shields.io/badge/-git-#F05032?logo=git&logoColor=white&style=for-the-badge"/>]() [<img src="https://img.shields.io/badge/-github-#181717?logo=github&logoColor=white&style=for-the-badge"/>]() [<img src="https://img.shields.io/badge/-heroku-#430098?logo=heroku&logoColor=white&style=for-the-badge"/>]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshDevHub&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
