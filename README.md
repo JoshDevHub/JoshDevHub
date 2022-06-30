@@ -9,7 +9,6 @@ I'm a web developer based in Colorado Springs, CO :mount_fuji:
 - :mailbox: Reach me by email at jmsmith1018@gmail.com
 
 ## Languages, Frameworks, and Tools
-***
-[<img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat-square"/>]()
+[<img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge"/>]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshDevHub&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
