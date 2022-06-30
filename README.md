@@ -1,4 +1,4 @@
-[![MasterHead](https://live.staticflickr.com/65535/52185224349_74301fa3f5_k.jpg)(https://github.com/JoshDevHub)]
+![MasterHead](https://live.staticflickr.com/65535/52185224349_74301fa3f5_k.jpg)
 
 # Hello, I'm Josh
 
