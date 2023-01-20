@@ -4,7 +4,7 @@
 
 I'm a web developer based in Colorado Springs, CO :mount_fuji:
 
-- :telescope: Currently working on [Coffee-Book](https://github.com/JoshDevHub/Coffee-Book), a social media clone built with Ruby on Rails :gem:
+- :telescope: Currently working on a [Todo List](https://github.com/JoshDevHub/Todo-List) written in vanilla JavaScript
 - :seedling: Currently learning C# and ASP.NET for contributing to an [open source project I'm passionate about](https://github.com/leaderboardsgg/leaderboard-backend)
 - :speech_balloon: Ask about my favorite editor: [neovim](https://github.com/neovim/neovim). I love tinkering with it and improving my workflow.
 - :mailbox: Reach me by email at jmsmith1018@gmail.com
