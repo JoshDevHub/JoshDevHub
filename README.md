@@ -5,7 +5,7 @@
 I'm a web developer based in Colorado Springs, CO :mount_fuji:
 
 - :telescope: Currently working on a [Shopping Cart app](https://github.com/JoshDevHub/Shopping-Cart) written with ReactJS.
-- :seedling: Currently diving deeper with React. I've been learning about react router and react testing library.
+- :seedling: Diving deeper with ReactJS. Lately I've been learning about react router and react testing library.
 - :speech_balloon: Ask about my favorite editor: [neovim](https://github.com/neovim/neovim). I love tinkering with it and talking about my workflow.
 - :mailbox: Reach me by email at jmsmith1018@gmail.com
 
